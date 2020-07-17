@@ -1,12 +1,13 @@
 #!/usr/bin/python
 # My first program on Python!
-print "DDOS ATAKA!!!"
+import time (1)
+print ("DDOS ATAKA!!!") 
 print ("До самоуничтожения 10 фарухов из 10") 
-time.sleep (1)
+import time (1)
 print ("9 фаррухов из 10") 
 time.sleep (1)
 print ("8 фаррухов из 10") 
-time.sleep (1)
+import time (1)
 print ("7 фаррухов из 10") 
 time.sleep (1)
 print ("6 фаррухов из 10") 
