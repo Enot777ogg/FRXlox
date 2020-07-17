@@ -1,0 +1,26 @@
+Print ("До самоуничтожения 10 фарухов из 10") 
+time.sllep (1)
+Print ("9 фаррухов из 10") 
+time.sllep (1)
+Print ("8 фаррухов из 10") 
+time.sllep (1)
+Print ("7 фаррухов из 10") 
+time.sllep (1)
+Print ("6 фаррухов из 10") 
+time.sllep (1)
+Print ("5 фаррухов из 10") 
+time.sllep (1)
+Print ("4 фаррухов из 10") 
+time.sllep (1)
+Print ("3 фаррухов из 10") 
+time.sllep (1)
+Print ("2 фаррухов из 10") 
+time.sllep (5)
+Print ("1 фаррухов из 10")
+import os 
+system ("cmatrix")
+time.sleep (15)
+import os 
+system ("exit") 
+
+
