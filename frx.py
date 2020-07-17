@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# My first program on Python!
+print "DDOS ATAKA!!!"
 print ("До самоуничтожения 10 фарухов из 10") 
 time.sleep (1)
 print ("9 фаррухов из 10") 
