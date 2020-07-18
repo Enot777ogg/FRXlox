@@ -8,7 +8,7 @@ print (Fore.RED + 'DDOS ATAKA!')
 
 time_count = 100
  
-for i in range(-time_count, 0):
+for i in range(-time_count, 1):
  print('Осталось %d до прихода Фаруха' % -i)
 for i in range(-time_count, 0):
     time.sleep(2)
