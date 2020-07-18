@@ -5,10 +5,15 @@ import colorama
 from colorama import Fore, Back, Style
 colorama.init()
 print (Fore.RED + 'DDOS ATAKA!')
-time_count = int(input('Время до прихода фарухха: '))
-time_temp = 0 
-while time_temp <= time_count: for i in reversed(time_count):
-print('Осталось %d Фаруххов' % i)
-time.sleep(1)
-print(back.YELLOW 'YOU ARE DEAD!')x
+
+time_count = 10
+ 
+for i in range(-time_count, 0):
+ print('Осталось %d до прихода Фаруха' % -i)
+for i in range(-time_count, 0):
+    time.sleep(1)
+print('Фарух пошёл!')
+
+ 
+ 
 
