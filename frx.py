@@ -5,6 +5,8 @@
 import os 
 import time
 import colorama
+from colorama import Fore, Back, Style
+colorama.init()
 print (Fore.BLUE + "DDOS ATAKA!!!") 
 print (Fore.GREEN + "До самоуничтожения 10 фарухов из 10") 
 print (Fore.GREEN + "9 фаррухов из 10") 
