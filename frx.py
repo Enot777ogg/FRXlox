@@ -4,6 +4,7 @@
 #ха Серёга лох забаненый
 import os 
 import time
+import colorama
 print (Fore.BLUE + "DDOS ATAKA!!!") 
 print (Fore.GREEN + "До самоуничтожения 10 фарухов из 10") 
 print (Fore.GREEN + "9 фаррухов из 10") 
