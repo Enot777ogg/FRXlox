@@ -6,13 +6,15 @@ from colorama import Fore, Back, Style
 colorama.init()
 print (Fore.RED + 'DDOS ATAKA!')
 
-time_count = 10
+time_count = 100
  
 for i in range(-time_count, 0):
  print('Осталось %d до прихода Фаруха' % -i)
 for i in range(-time_count, 0):
-    time.sleep(1)
-print('Фарух пошёл!')
+    time.sleep(2)
+print('Фарух пришёл!')
+time.sleep(5)
+aafire
 
  
  
