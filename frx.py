@@ -7,7 +7,7 @@ import time
 import colorama
 from colorama import Fore, Back, Style
 colorama.init()
-print (FORE.RED + "DDOS ATAKA!!!") 
+print (Fore.RED + 'DDOS ATAKA!')
 print ("До самоуничтожения 10 фарухов из 10") 
 print ("9 фаррухов из 10") 
 time.sleep (1)
