@@ -1,5 +1,7 @@
-!/usr/bin/python
-# My first program on Python!
+# Спасибо Тимофею за редактирование 
+#сценарист Фара
+#режисёр шома 
+#ха Серёга лох забаненый
 import os 
 import time
 print ("DDOS ATAKA!!!") 
