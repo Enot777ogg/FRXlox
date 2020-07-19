@@ -4,18 +4,11 @@ import time
 import colorama
 from colorama import Fore, Back, Style
 colorama.init()
-print (Fore.RED + 'DDOS ATAKA!')
-
-time_count = 100
- 
-for i in range(-time_count, 1):
- print('Осталось %d до прихода Фаруха' % -i)
-for i in range(-time_count, 0):
-    time.sleep(2)
-print('Фарух пришёл!')
-time.sleep(5)
-aafire
-
- 
- 
-
+print (Fore.RED + 'Запуск Нейросети')
+time.sleep (5)
+print (Fore.RED + 'Нейросеть запущена')
+time_count = 10 
+for i in range(time_count, 0, -1): 
+*tab* print("осталось {} секунд".format(i))
+*tab* time.sleep(1)
+print("питон спиздили")
