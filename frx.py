@@ -9,6 +9,6 @@ time.sleep (5)
 print (Fore.RED + 'Нейросеть запущена')
 time_count = 10 
 for i in range(time_count, 0, -1): 
-*tab* print("осталось {} секунд".format(i))
-*tab* time.sleep(1)
+print("осталось {} секунд".format(i))
+time.sleep(1)
 print("питон спиздили")
